@@ -7,7 +7,12 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+@import url("styles/header.css");
 
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
 .cabeçalho {
     background-color: var(--branco);
 }
