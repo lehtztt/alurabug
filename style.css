@@ -4,3 +4,6 @@
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
 }
+body{
+    background-color : var(--color-de-fundo);
+}
