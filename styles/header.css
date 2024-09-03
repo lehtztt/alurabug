@@ -24,7 +24,7 @@
   .lista-menu__titulo {
     color: var(--laranja);
   }
-  .lista-menu__link {
+  .lista-menu__link{
     background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
